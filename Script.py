@@ -191,7 +191,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b>🅢🅘🅩🅔 - {file_size}</b>
 
 <b>•────•────────•────•
-🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+-VlJFDkAQ4cyMjU1)
+🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+5kT8b0Vqefs5OGU9)
 🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+uI9i-5DW5L8zM2Q1)
 •────•────────•────•
 ⚙𝗔ᴅᴠɪsᴏʀ :[ᴀɴᴀɴᴅ 𝟐𝐊࿐](https://t.me/Anand_2K)
@@ -706,11 +706,11 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
 <a href='https://telegram.me/AR_Linkzz'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='http://t.me/+-VlJFDkAQ4cyMjU1'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
+<a href='https://t.me/+5kT8b0Vqefs5OGU9'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
 
 <a href='http://t.me/+uI9i-5DW5L8zM2Q1'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='http://t.me/+-VlJFDkAQ4cyMjU1'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏</a>"""
+<a href='https://t.me/+5kT8b0Vqefs5OGU9'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏</a>"""
 
 
 
