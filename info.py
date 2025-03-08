@@ -43,7 +43,7 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1002131808231')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002165455523')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -61,7 +61,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #Shortner Variables 
 VERIFY = bool(environ.get('VERIFY', False))
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/AR_linkz/10')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/AR_Linkzz/36')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'modijiurl.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '8d684270fc9cd373ff00af17ef218fe0f70ad44a')
@@ -75,7 +75,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+-VlJFDkAQ4cyMjU1')
 CHNL_LNK = environ.get('CHNL_LNK', 'http://t.me/+uI9i-5DW5L8zM2Q1')
-WRM = environ.get('WRM', 'https://t.me/AR_linkz')
+WRM = environ.get('WRM', 'https://t.me/AR_Linkzz')
 MSG_ALRT = environ.get('MSG_ALRT', '💖 Hello Nanba and Nanbis 💖')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001857257903'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT')
