@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '27335730'))
 API_HASH = environ.get('API_HASH', 'ae5a5f660ffdf3e08997d493c32932f5')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6068679720:AAHyH2Ej21nO0rAMx6YnIaWVtQs2QVGa80A")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6215730931:AAE-TifOy8XK0ib8B9imkcjxfHkjqOPVURQ")
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'modijiurl.com'))
