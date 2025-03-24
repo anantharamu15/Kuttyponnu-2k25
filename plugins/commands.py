@@ -25,16 +25,18 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇ 🍂', callback_data='main_channel'),
-                    InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
+                    InlineKeyboardButton('🫨 ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('❤‍🔥 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                 ],[
-                    InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium')
+                    InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ꜰᴏʀ ᴀᴅᴢ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ ✅', callback_data='buy_premium')
                 ],[
-                    InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
+                    InlineKeyboardButton('ᴡᴇᴇᴋʟʏ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ', url=WRM)
+                ],[
+                    InlineKeyboardButton('🎀 ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ❣️', url=WRM)
                     ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_text("<i><b>ʜᴇʟʟᴏ. ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . .</b></i>")
@@ -59,16 +61,18 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇ 🍂', callback_data='main_channel'),
-                    InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
+                    InlineKeyboardButton('🫨 ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('❤‍🔥 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                 ],[
-                    InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium')
+                    InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ꜰᴏʀ ᴀᴅᴢ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ ✅', callback_data='buy_premium')
                 ],[
-                    InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
+                    InlineKeyboardButton('ᴡᴇᴇᴋʟʏ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ', url=WRM)
+                ],[
+                    InlineKeyboardButton('🎀 ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ❣️', url=WRM)
                     ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_text("<i><b>ʜᴇʟʟᴏ. ʜᴏᴡ ᴀʀᴇ ʏᴏᴜ \nᴡᴀɪᴛ ᴀ ᴍᴏᴍᴇɴᴛ ʙʀᴏ . . .</b></i>")
@@ -131,16 +135,18 @@ async def start(client, message):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇ 🍂', callback_data='main_channel'),
-                    InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
+                    InlineKeyboardButton('🫨 ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('❤‍🔥 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                 ],[
-                    InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium')
+                    InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ꜰᴏʀ ᴀᴅᴢ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ ✅', callback_data='buy_premium')
                 ],[
-                    InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
+                    InlineKeyboardButton('ᴡᴇᴇᴋʟʏ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ', url=WRM)
+                ],[
+                    InlineKeyboardButton('🎀 ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ❣️', url=WRM)
                     ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -302,7 +308,7 @@ async def start(client, message):
                     ], [
                         InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url=await get_tutorial(chat_id))
                     ],[
-                        InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'stream_link_generate:{file_id}') #Don't change anything without contacting me @creatorrio
+                        InlineKeyboardButton('🚀 ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ🖥️', callback_data=f'stream_link_generate:{file_id}') #Don't change anything without contacting me @creatorrio
                     ],[
                         InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
                     ], [
@@ -328,7 +334,7 @@ async def start(client, message):
                     ], [
                         InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url=await get_tutorial(chat_id))
                     ],[
-                        InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'stream_link_generate:{file_id}') #Don't change anything without contacting me @creatorrio
+                        InlineKeyboardButton('🚀 ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ🖥️', callback_data=f'stream_link_generate:{file_id}') #Don't change anything without contacting me @creatorrio
                     ],[
                         InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
                     ], [
@@ -389,7 +395,7 @@ async def start(client, message):
                             ],[
                                 InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
                             ],[
-                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @creatorrio
+                                InlineKeyboardButton('🚀 ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @creatorrio
                             ]
                         ]
                     )
@@ -421,7 +427,7 @@ async def start(client, message):
                     ], [
                         InlineKeyboardButton('⁉️ Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ ⁉️', url=await get_tutorial(chat_id))
                     ],[
-                        InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'stream_link_generate:{file_id}') #Don't change anything without contacting me @creatorrio
+                        InlineKeyboardButton('🚀ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ🖥️', callback_data=f'stream_link_generate:{file_id}') #Don't change anything without contacting me @creatorrio
                     ],[
                         InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
                     ], [
@@ -442,7 +448,7 @@ async def start(client, message):
             if not await check_verification(client, message.from_user.id) and VERIFY == True:
                 btn = [[
                     InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=")),
-                    InlineKeyboardButton("Hᴏᴡ Tᴏ Vᴇʀɪғʏ", url='https://t.me/cccgffddff/9')
+                    InlineKeyboardButton("Hᴏᴡ Tᴏ Vᴇʀɪғʏ", url='https://t.me/AR_Linkzz/36')
                 ]]
                 await message.reply_text(
                     text="<b>Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ!\nKɪɴᴅʟʏ ᴠᴇʀɪғʏ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ Sᴏ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴀᴄᴄᴇss ᴛᴏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs ᴜɴᴛɪʟ 12 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ !</b>",
@@ -463,7 +469,7 @@ async def start(client, message):
                             ],[
                                 InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
                             ],[
-                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @creatorrio
+                                InlineKeyboardButton('🚀 ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @creatorrio
                             ]
                         ]
                     )
@@ -506,7 +512,7 @@ async def start(client, message):
     if not await check_verification(client, message.from_user.id) and VERIFY == True:
         btn = [[
             InlineKeyboardButton("Verify", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=")),
-            InlineKeyboardButton("Hᴏᴡ Tᴏ Vᴇʀɪғʏ", url='https://t.me/cccgffddff/9')            
+            InlineKeyboardButton("Hᴏᴡ Tᴏ Vᴇʀɪғʏ", url='https://t.me/AR_Linkzz/36')            
         ]]
         await message.reply_text(
             text="<b>Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ!\nKɪɴᴅʟʏ ᴠᴇʀɪғʏ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ Sᴏ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴀᴄᴄᴇss ᴛᴏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs ᴜɴᴛɪʟ 12 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ !</b>",
@@ -528,7 +534,7 @@ async def start(client, message):
                             ],[
                                 InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
                             ],[
-                                InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @creatorrio
+                                InlineKeyboardButton('🚀 ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @creatorrio
                             ]
                         ]
             )
