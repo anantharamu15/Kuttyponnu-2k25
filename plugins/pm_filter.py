@@ -1563,16 +1563,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🦋 ᴜᴘᴅᴀᴛᴇ 🍂', callback_data='main_channel'),
-                    InlineKeyboardButton('🫨 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
+                    InlineKeyboardButton('🫨 ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ ✨', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
                 ],[
                     InlineKeyboardButton('❤‍🔥 ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ 💸', callback_data="shortlink_info")
                 ],[
-                    InlineKeyboardButton('💰 Buy Premium for adz Free Movies ✅', callback_data='buy_premium')
+                    InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ꜰᴏʀ ᴀᴅᴢ ꜰʀᴇᴇ ᴍᴏᴠɪᴇꜱ ✅', callback_data='buy_premium')
                 ],[
-                    InlineKeyboardButton('𝚆𝚎𝚎𝚔𝚕𝚢 𝚁𝚎𝚕𝚎𝚊𝚜𝚎𝚍 𝙼𝚘𝚟𝚒𝚎𝚜', url=WRM)
+                    InlineKeyboardButton('ᴡᴇᴇᴋʟʏ ʀᴇʟᴇᴀꜱᴇᴅ ᴍᴏᴠɪᴇꜱ', url=WRM)
+                ],[
+                    InlineKeyboardButton('🎀 ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ❣️', url=WRM)
                     ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
