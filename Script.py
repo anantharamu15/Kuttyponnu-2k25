@@ -184,16 +184,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
 
-    CAPTION = """<b>[{file_name}]</b>
-
-<b>🅢🅘🅩🅔 - {file_size}</b>
+    CAPTION = """
+<b>[{file_name}]</b>
 
 <b>•────•────────•────•
-🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+5kT8b0Vqefs5OGU9)
+🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ :[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+5kT8b0Vqefs5OGU9)
 🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+juOWarHYRvtjNjk1)
 •────•────────•────•
 ⚙𝗔ᴅᴠɪsᴏʀ :[𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ](https://t.me/Anand_2K)
-😎 நன்றி தலைவரே  🙏🏻
+😎 நன்றி தலைவரே 🙏🏻
 💝2k21 to 2k25 💝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
