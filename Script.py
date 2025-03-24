@@ -1,19 +1,17 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, 
-I ᴀᴍ Aᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ Pᴏᴡᴇʀғᴜʟʟ ᴍᴏᴠɪᴇ ᴘʀᴏᴠɪᴅᴇ ʙᴏᴛ [AWESOME Fɪʟᴇ Sᴛᴏʀᴇ ʙᴏᴛ] 
-ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ 
-Jᴜsᴛ Aᴅᴅ Tᴏ ᴍᴇ ɪɴ ʏᴏᴜʀ ᴏᴡɴ ɢʀᴏᴜᴘ Wɪᴛʜ Aᴅᴍɪɴ ᴘᴇʀᴍɪssɪᴏɴ I ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ʏᴏᴜʀ Mᴏᴠɪᴇ Gʀᴏᴜᴘ😍
+"ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ!!😍" 
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anand_2K'>𒆜 𝗔ɴᴀɴᴅ 𝟐𝐊 ࿐</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anand_2K'>𒆜 𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ࿐</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
-🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anand_2K'>𒆜 𝗔ɴᴀɴᴅ 𝟐𝐊 ࿐</a></b>"""
+🌿 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Anand_2K'>𒆜 𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ࿐</a></b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Anand_2K>𒆜 𝗔ɴᴀɴᴅ 𝟐𝐊 ࿐</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Anand_2K>𒆜 𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ࿐</a>
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AR_linkz'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
@@ -23,7 +21,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs ᴘᴀɪᴅ .
-Cᴏɴᴛᴀᴄᴛ : <a href='https://t.me/Anand_2K'>𒆜 𝗔ɴᴀɴᴅ 𝟐𝐊 ࿐</a></b> 😎</b>"""
+Cᴏɴᴛᴀᴄᴛ : <a href='https://t.me/Anand_2K'>𒆜 𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ࿐</a></b> 😎</b>"""
 
 
 
@@ -75,7 +73,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     OWNER_INFO = """⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 𝗔ɴᴀɴᴅ 𝟐𝐊 ࿐
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ࿐
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Anand_2K
 • ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ : <a href='t.me/Anand_2K'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
 
@@ -174,7 +172,7 @@ SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
 Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
 
     SINFO = """
-🫣 Movie Venumna back up movie group la join panni Try Again Buttana Click Pannu😅 ok"""
+🫣 Movie Venumna Back Up Movie Channel la join panni Try Again Buttana Click Pannu😅 ok"""
 
     NORSLTS = """ 
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -186,7 +184,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
 
-    CAPTION = """<b>@AR_Linkzz[{file_name}]</b>
+    CAPTION = """<b>[{file_name}]</b>
 
 <b>🅢🅘🅩🅔 - {file_size}</b>
 
@@ -194,7 +192,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+5kT8b0Vqefs5OGU9)
 🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+juOWarHYRvtjNjk1)
 •────•────────•────•
-⚙𝗔ᴅᴠɪsᴏʀ :[ᴀɴᴀɴᴅ 𝟐𝐊࿐](https://t.me/Anand_2K)
+⚙𝗔ᴅᴠɪsᴏʀ :[𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ](https://t.me/Anand_2K)
 😎 நன்றி தலைவரே  🙏🏻
 💝2k21 to 2k25 💝</b>""" 
 
