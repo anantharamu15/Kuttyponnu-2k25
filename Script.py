@@ -185,7 +185,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 
     CAPTION = """
-<b>[{file_name}]</b>
+<b>@AR_Linkzz
+[{file_name}]</b>
 
 <b>•────•────────•────•
 🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ :[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+5kT8b0Vqefs5OGU9)
