@@ -17,8 +17,8 @@ API_ID = int(environ.get('API_ID', '27335730'))
 API_HASH = environ.get('API_HASH', 'ae5a5f660ffdf3e08997d493c32932f5')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7739544230:AAF5UazGscRfUYMyh7fxEtXP8S6CUjS7GoE")
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'modijiurl.com'))
-STREAM_API = (environ.get('STREAM_API', '8d684270fc9cd373ff00af17ef218fe0f70ad44a'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'linkshortify.com'))
+STREAM_API = (environ.get('STREAM_API', '8dae59bb10d79f0bd43852d43b73922f4558bec2'))
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002122060084'))
@@ -62,8 +62,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 VERIFY = bool(environ.get('VERIFY', False))
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/AR_Linkzz/36')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'modijiurl.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '8d684270fc9cd373ff00af17ef218fe0f70ad44a')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'linkshortify.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '8dae59bb10d79f0bd43852d43b73922f4558bec2')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 #others 
