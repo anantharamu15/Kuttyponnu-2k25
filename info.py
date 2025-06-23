@@ -105,8 +105,8 @@ OPENAI_API = environ.get("OPENAI_API","sk-AjcfRN3DwrDMhMQJsgv3T3BlbkFJLQzO6CkQCp
 
 
 # Online Stream and Download
-PORT = int(environ.get('PORT', 8080))
-NO_PORT = bool(environ.get('NO_PORT', False))
+PORT = int(environ.get('PORT', None))
+NO_PORT = bool(environ.get('NO_PORT', True))
 APP_NAME = None
 if 'DYNO' in environ:
     ON_HEROKU = True
