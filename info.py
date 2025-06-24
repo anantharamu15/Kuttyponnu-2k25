@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '27335730'))
 API_HASH = environ.get('API_HASH', 'ae5a5f660ffdf3e08997d493c32932f5')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7739544230:AAExUqY_mzuKmJAKvuelvzCpZBx4velJQBE")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7739544230:AAFQCUTGrCHDrCOPgs8O1TOcrcImxOmD-so")
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'gyanilinks.com'))
 STREAM_API = (environ.get('STREAM_API', '76f21de69c69cbd8df3b91f0c00c4d90e0a664a1'))
