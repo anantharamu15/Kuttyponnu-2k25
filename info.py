@@ -17,8 +17,8 @@ API_ID = int(environ.get('API_ID', '27335730'))
 API_HASH = environ.get('API_HASH', 'ae5a5f660ffdf3e08997d493c32932f5')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7739544230:AAFQCUTGrCHDrCOPgs8O1TOcrcImxOmD-so")
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'gyanilinks.com'))
-STREAM_API = (environ.get('STREAM_API', '76f21de69c69cbd8df3b91f0c00c4d90e0a664a1'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'shortxlinks.com'))
+STREAM_API = (environ.get('STREAM_API', 'd68c13be1dc664586b96093831b4415e4625c6b0'))
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002122060084'))
@@ -42,12 +42,12 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1002165455523')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002585571056')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID')
-reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002144697861')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002585571056')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
@@ -60,10 +60,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #Shortner Variables 
 VERIFY = bool(environ.get('VERIFY', False))
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/AR_Linkzz/36')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/AR_Linkzs/5')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gyanilinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '76f21de69c69cbd8df3b91f0c00c4d90e0a664a1')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd68c13be1dc664586b96093831b4415e4625c6b0')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 #others 
@@ -74,7 +74,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+5kT8b0Vqefs5OGU9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+juOWarHYRvtjNjk1')
-WRM = environ.get('WRM', 'https://t.me/AR_Linkzz')
+WRM = environ.get('WRM', 'https://t.me/AR_Linkzs')
 MSG_ALRT = environ.get('MSG_ALRT', '💖 Hello Nanba and Nanbis 💖')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001857257903'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT')
