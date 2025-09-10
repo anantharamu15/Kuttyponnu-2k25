@@ -15,10 +15,10 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '27335730'))
 API_HASH = environ.get('API_HASH', 'ae5a5f660ffdf3e08997d493c32932f5')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7739544230:AAFQCUTGrCHDrCOPgs8O1TOcrcImxOmD-so")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7739544230:AAFNd0Zl1Cus9Dk-NN8-OUW5iLGRCCf5z44")
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'shortxlinks.com'))
-STREAM_API = (environ.get('STREAM_API', 'd68c13be1dc664586b96093831b4415e4625c6b0'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'arolinks.com'))
+STREAM_API = (environ.get('STREAM_API', '20a83d98a2377c731833afc114319ff47b7758c7'))
 
 # add premium logs channel id
 PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002122060084'))
@@ -62,8 +62,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 VERIFY = bool(environ.get('VERIFY', False))
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/AR_Linkzs/5')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shortxlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'd68c13be1dc664586b96093831b4415e4625c6b0')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'arolinks.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '20a83d98a2377c731833afc114319ff47b7758c7')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 #others 
